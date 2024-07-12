@@ -1,6 +1,6 @@
 function Heading() { 
     return ( 
-      <h1>This is  heading.</h1> 
+      <h1>This is an example.</h1> 
     ) 
   } 
 
