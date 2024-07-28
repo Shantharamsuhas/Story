@@ -9,6 +9,7 @@ import Btn from './components/Btn';
 import InputComponent from './components/Hookies';
 import RegisterForm from './components/Hookies2';
 import TextInputWithFocusButton from './components/Refs';
+import Appie from './components/Propdrillin';
  
 function App(props) { 
   return ( 
@@ -21,6 +22,7 @@ function App(props) {
       <InputComponent></InputComponent>
       <RegisterForm></RegisterForm>
       <TextInputWithFocusButton></TextInputWithFocusButton>
+      <Appie></Appie>
     </div> 
   ); 
 } 
